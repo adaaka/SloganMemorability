@@ -1,4 +1,6 @@
-# Slogan Memorability Prediction Models
+# Predicting the Memorability of Brand Slogans
+Ada Aka and John McCoy
+Journal of Marketing (2026)
 
 ## Overview
 
