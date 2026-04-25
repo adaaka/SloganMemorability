@@ -1,8 +1,6 @@
 # Predicting the Memorability of Brand Slogans
 Ada Aka and John McCoy
 
-Journal of Marketing (2026)
-
 ## Overview
 
 This notebook provides tools to predict **cued brand recall** and **slogan recognition** probabilities for brand slogans using trained models.
